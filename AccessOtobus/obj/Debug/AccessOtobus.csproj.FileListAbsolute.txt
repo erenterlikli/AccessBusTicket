@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\bin\Debug\AccessOtobus.exe.config
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\bin\Debug\AccessOtobus.exe
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\bin\Debug\AccessOtobus.pdb
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.Form1.resources
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.Properties.Resources.resources
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.exe
+C:\Users\Eren\source\repos\AccessOtobus\AccessOtobus\obj\Debug\AccessOtobus.pdb
